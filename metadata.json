@@ -1,0 +1,6 @@
+{
+  "name": "AI Smart Wearable Glasses - Driver Fatigue Detection",
+  "description": "Research-level AI + hardware prototype for real-time driver fatigue detection and emergency response combining Vision AI (EAR, PERCLOS, MAR, Head Pose) and IMU Head Kinematics.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
